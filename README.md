@@ -1,4 +1,4 @@
-# Freelance Management Service using PHP_CMS
+# Freelance Management CMS
 
 - This project is a group-developed PHP & MySQL CMS application designed to manage freelance services efficiently. It includes a simple admin dashboard for managing services and a clean, responsive frontend where users can view available services dynamically.
 
