@@ -1,14 +1,14 @@
 # Freelance Management Service using PHP_CMS
 
-- This is a PHP and MySQL project that provides a simple CMS to manage services.
-- It includes a basic admin panel and a minimal frontend that displays data dynamically.
+- This project is a group-developed PHP & MySQL CMS application designed to manage freelance services efficiently. It includes a simple admin dashboard for managing services and a clean, responsive frontend where users can view available services dynamically.
 
 # Features
 
-- Simple Services CRUD (Create, Read, Update, Delete)
-- PHP connected to MySQL database
-- Dynamic services page on the frontend
-- Basic Bootstrap layout for responsiveness
+- Full Services CRUD (Create, Read, Update, Delete) functionality
+- Clean Admin Panel for managing service records
+- Dynamic frontend pages connected to the database
+- Responsive UI using Bootstrap
+- Built as a team project, focusing on collaboration and real-world CMS structure
 
 # Technologies Used
 - PHP
@@ -21,4 +21,8 @@
 - Home Page
 - Services Page (Dynamic)
 - Contact Page
-- Admin Services Pages (Add, Edit, Delete, View)
+- Admin Pages:
+    - Add Service
+    - Edit Service
+    - Delete Service
+    - View All Services
