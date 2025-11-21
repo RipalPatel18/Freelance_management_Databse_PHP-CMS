@@ -16,6 +16,3 @@
 - HTML
 - CSS
 - Bootstrap
-
-# Demo
-
